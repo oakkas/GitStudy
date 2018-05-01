@@ -1,1 +1,2 @@
 This is my first git commit document.
+I am now editing this file so I can see the changes.
