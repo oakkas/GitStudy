@@ -1,1 +1,1 @@
-This is my second git commit document.
+This is my second git commit document. Changes to the second file
