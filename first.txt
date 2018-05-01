@@ -1,2 +1,1 @@
-This is my first git commit document.
-I am now editing this file so I can see the changes.
+Oguz is the best dude ever.
